@@ -1,4 +1,4 @@
-# animation_task
+# simple flutter animation
 
 A new Flutter application.
 
